@@ -24,6 +24,14 @@ Variational AutoEncoders manages to solve this problem by forcing the model to s
 
 ---
 
+
+# Install dependencies
+In this repo, a pretrained biggan in a specified library
+```python
+pip install torch torchvision matplotlib lpips numpy nltk cv2 pytorch-pretrained-biggan
+```
+---
+
 # Loss functions
 In order to have a good latent representation for the dataset as well as a good reconstruction to the image, two loss functions were combined
 
