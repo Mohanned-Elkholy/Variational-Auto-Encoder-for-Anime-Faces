@@ -52,6 +52,11 @@ This loss function forces the mean and variance of the latent space in the middl
 python train.py  --num_epochs 2000 --learning_rate 0.007 
 ```
 ---
+# Results
+
+These images are drawn randomly from the latent space distribution
+
+![image](https://user-images.githubusercontent.com/47930821/132110339-4cb2830a-5299-4582-add8-eb5f156db0d6.png)
 
 
 
